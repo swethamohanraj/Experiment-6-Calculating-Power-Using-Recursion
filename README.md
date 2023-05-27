@@ -22,6 +22,7 @@ Step 6:
 The result of the power operation is stored in the res variable, and finally the result is displayed to the user.
 
 ## PROGRAM:
+```
 import java.util.Scanner;
 public class Recursion
 {
@@ -43,6 +44,7 @@ public class Recursion
             return 1;
     }
 }
+```
 ## OUTPUT:
 ![image](https://github.com/swethamohanraj/Experiment-6-Calculating-Power-Using-Recursion/assets/94228215/90794dc8-caa8-4d4d-9f5e-6bf2dd41572f)
 
